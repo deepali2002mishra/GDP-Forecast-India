@@ -1,4 +1,4 @@
-#India GDP Forecasting Project (2025–2030)
+# India GDP Forecasting Project (2025–2030)
 
 This project predicts India’s **national and sectoral GDP** using a hybrid modeling approach combining **SARIMAX** and **XGBoost**, enriched with realistic economic scenario simulations. The goal is to assist in data-driven investment planning and economic policymaking through explainable machine learning and statistical forecasting.
 
