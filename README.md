@@ -4,10 +4,6 @@ This project predicts India’s **national and sectoral GDP** using a hybrid mod
 
 ---
 
-## 📁 Project Structure
-
-GDP/ ├── Dashboard.py # Streamlit dashboard (main UI) ├── scripts/ # Preprocessing, modeling, and forecasting logic ├── models/ # Trained SARIMAX and XGBoost models ├── results/ # Forecast outputs, plots, and reports ├── data/ # Raw and processed datasets ├── requirements.txt # Dependencies └── README.md # You are here!
-
 ## 🌟 Key Features
 
 - ✅ Forecast India's **National GDP Growth** from 2025 to 2030
@@ -15,7 +11,6 @@ GDP/ ├── Dashboard.py # Streamlit dashboard (main UI) ├── scripts/ #
 - ✅ Simulate Economic Scenarios: **Baseline**, **Reform Acceleration**, and **External Crisis**
 - ✅ **Hybrid Modeling** using SARIMAX (for trends) + XGBoost (for residual learning)
 - ✅ **SHAP Explainability** for indicator impact analysis
-- ✅ **Exportable Reports**: State-wise investment rationale and sector forecasts
 - ✅ **Interactive Streamlit Dashboard** for easy navigation and presentation
 
 ---
@@ -27,26 +22,31 @@ GDP/ ├── Dashboard.py # Streamlit dashboard (main UI) ├── scripts/ #
    git clone https://github.com/deepali2002mishra/GDP-Forecast-India.git
    cd GDP-Forecast-India
 
-Install dependencies
-pip install -r requirements.txt
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
 
-Launch the dashboard
-streamlit run Dashboard.py
+3. **Launch the dashboard**
+   ```bash
+   streamlit run Dashboard.py
 
-📊 Outputs
-📈 National GDP forecasts (2025–2030)
 
-🌦 Scenario-wise projections: Reform, Crisis, Baseline
-🌾 State-wise agriculture growth and investment suggestions
-💻 IT sector GDP forecasts
-💡 SHAP plots showing key economic indicator contributions
+**📊 Outputs**
 
-📌 Technologies Used
-Python 3.11
-Streamlit
-SARIMAX (Statsmodels)
-XGBoost
-SHAP
-Pandas, NumPy, Matplotlib, Scikit-learn
+1. 📈 National GDP forecasts (2025–2030)
+2. 🌦 Scenario-wise projections: Reform, Crisis, Baseline
+3. 🌾 State-wise agriculture growth and investment suggestions
+4. 💻 IT sector GDP forecasts
+5. 💡 SHAP plots showing key economic indicator contributions
 
-🤝 Team Members
+
+**📌 Technologies Used**
+
+1. Python 3.11
+2. Streamlit
+3. SARIMAX (Statsmodels)
+4. XGBoost
+5. SHAP
+6. Pandas, NumPy, Matplotlib, Scikit-learn
+
+**🤝 Team Members**
