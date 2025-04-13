@@ -37,9 +37,12 @@ This project predicts India’s **national and sectoral GDP** using a hybrid mod
 ![image](https://github.com/user-attachments/assets/2961f586-6e28-4aef-b210-658521b853c3)
 ![image](https://github.com/user-attachments/assets/d9a4389b-061c-41ac-a16a-96f0d3078e22)
 ![image](https://github.com/user-attachments/assets/210fe70c-31a6-4f9c-8050-e242f5e49ba3)
+![image](https://github.com/user-attachments/assets/e304e718-9fa8-45ca-b43b-e195077b643c)
+![image](https://github.com/user-attachments/assets/e0c74c1e-de46-4024-918c-9e01ba352fc3)
 
+---
 
-**📊 Outputs**
+## 📊 Outputs
 
 1. 📈 National GDP forecasts (2025–2030)
 2. 🌦 Scenario-wise projections: Reform, Crisis, Baseline
@@ -47,8 +50,9 @@ This project predicts India’s **national and sectoral GDP** using a hybrid mod
 4. 💻 IT sector GDP forecasts
 5. 💡 SHAP plots showing key economic indicator contributions
 
+---
 
-**📌 Technologies Used**
+## 📌 Technologies Used
 
 1. Python 3.11
 2. Streamlit
