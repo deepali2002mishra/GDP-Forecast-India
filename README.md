@@ -1,4 +1,4 @@
-# India GDP Forecasting Project (2025–2030)
+![image](https://github.com/user-attachments/assets/c8c8abaa-88c4-41b6-b4d0-e7b1b105627a)# India GDP Forecasting Project (2025–2030)
 
 This project predicts India’s **national and sectoral GDP** using a hybrid modeling approach combining **SARIMAX** and **XGBoost**, enriched with realistic economic scenario simulations. The goal is to assist in data-driven investment planning and economic policymaking through explainable machine learning and statistical forecasting.
 
@@ -29,6 +29,14 @@ This project predicts India’s **national and sectoral GDP** using a hybrid mod
 3. **Launch the dashboard**
    ```bash
    streamlit run Dashboard.py
+
+**Dashboard**
+
+![image](https://github.com/user-attachments/assets/0e74251c-593f-4298-9b10-e961a945b8b5)
+![image](https://github.com/user-attachments/assets/03c3d9e1-1442-4746-9cac-b48b030c7ba0)
+![image](https://github.com/user-attachments/assets/2961f586-6e28-4aef-b210-658521b853c3)
+![image](https://github.com/user-attachments/assets/d9a4389b-061c-41ac-a16a-96f0d3078e22)
+![image](https://github.com/user-attachments/assets/210fe70c-31a6-4f9c-8050-e242f5e49ba3)
 
 
 **📊 Outputs**
